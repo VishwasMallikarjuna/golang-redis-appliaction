@@ -7,3 +7,5 @@ CREATE TABLE users (
     name VARCHAR(100),
     email VARCHAR(100)
 );
+
+Make sure you have Redis installed and running. If not, you can download and install it from the Redis website.
