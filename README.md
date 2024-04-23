@@ -9,3 +9,5 @@ CREATE TABLE users (
 );
 
 Make sure you have Redis installed and running. If not, you can download and install it from the Redis website.
+
+https://redis.io/docs/latest/operate/oss_and_stack/install/install-redis/install-redis-on-windows/
