@@ -34,3 +34,5 @@ This application showcases how to build a simple Go application that interacts w
        name VARCHAR(100),
        email VARCHAR(100)
    );
+
+### Redis Setup
