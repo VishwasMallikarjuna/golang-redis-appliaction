@@ -36,3 +36,5 @@ This application showcases how to build a simple Go application that interacts w
    );
 
 ### Redis Setup
+
+1. Make sure you have Redis installed and running. If not, you can download and install it from the Redis website.
