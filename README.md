@@ -41,11 +41,14 @@ This application showcases how to build a simple Go application that interacts w
 
 ### Go Application 
 
-    Make sure you have Go installed on your system. If not, you can download and install it from here.
+    Make sure you have Go installed on your system. If not, you can download and install it from here:
+    
+    https://go.dev/doc/install
 
     Install the necessary dependencies by running the following command:
+    
+    go mod tidy
 
-    bash
 
 go mod tidy
 
